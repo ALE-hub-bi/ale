@@ -1,0 +1,38 @@
+img {
+	width:200px;
+	  border-style: groove;
+  border-color: coral;
+  border-width: 7px;
+  
+}
+body{
+	
+	
+	background-color:
+	
+	
+}
+div{
+	color:red;
+	font-family;
+	
+    
+   
+	
+}
+.red{
+	
+}
+img:hover{
+	box-shadow: 0 0 2px 1px rgba(0,140,186,0.5);
+}
+h1{
+	
+	background-color:yellow;
+
+	border-style:groove;
+	border-color:red;
+  border-width: 7px;
+	
+}
+
